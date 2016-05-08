@@ -1,0 +1,17 @@
+<style>
+  .use {
+    color : #99DDFF
+  }  
+</style>
+
+<div class="grid-root">
+  <div class="g-1-4"></div>
+  <div class="g-1-2">
+    <center>
+      25% OFF ANY AMOUNT! 30% OFF $50 | 40% OFF $75<br>
+      <span class="use">USE CODE <strong>GETMORE</strong></span><br>
+      ONLINE ONLY, ENDS 3/30
+    </center>
+  </div>  
+  <div class="g-1-4"></div>
+</div>  
