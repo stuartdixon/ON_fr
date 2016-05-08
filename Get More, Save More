@@ -3,7 +3,7 @@
     color : #99DDFF
   }
   .promoDrawer__content__item__banner {
-    line-height:12px
+    
   }
 </style>
 
