@@ -19,7 +19,7 @@
   text-transform: uppercase;
 }
 .main-offer {
-  font-size: 4em;
+  font-size: 3em;
   text-transform: uppercase;
   line-height: 1.05;
 }
