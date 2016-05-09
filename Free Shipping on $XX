@@ -1,0 +1,58 @@
+
+<div class="xx144">
+<style>
+.xx144 {
+  height:100%;
+  width:100%;
+  background-color:#F1A4C3;
+  font-size:10px;
+  color:#000;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 6px;
+}
+.xx123 p {
+    margin: 0
+}
+.exclusive {
+  font-size:1em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.main-offer {
+  font-size: 4.3em;
+  text-transform: uppercase;
+  line-height: 1.05;
+}
+.pd-link, .pd-link a, .pd-link a:link, .pd-link a:visited, .pd-link a:hover {
+  font-size:1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #FFF;
+  background-color: #000;
+  font-weight:700;
+  width:90%;
+  padding:0 4px;
+  display:block;
+  margin: 3px;
+}
+
+
+</style>
+<div class="grid-root">
+  <div class="g-1-1">
+    <center><span class="exclusive">ONLINE ONLY. ENDS 3/21.</span></center>
+  </div>  
+  <div class="g-1-1">
+    <center><span class="main-offer">FREE SHIPPING</span></center>
+  </div>  
+  <div class="g-1-1">
+    <center><span class="exclusive">ON YOUR $XX ORDER</span></center>
+  </div>
+  <div class="g-1-1">
+    <center>
+      <span class="pd-link">USE CODE xxxxxx
+      </span>
+    </center>
+  </div>
+</div>  
+</div>
