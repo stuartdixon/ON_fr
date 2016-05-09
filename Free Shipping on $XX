@@ -21,7 +21,7 @@
 .main-offer {
   font-size: 3em;
   text-transform: uppercase;
-  line-height: 1.05;
+  line-height: 2;
 }
 .pd-link, .pd-link a, .pd-link a:link, .pd-link a:visited, .pd-link a:hover {
   font-size:1.5em;
@@ -34,6 +34,7 @@
   padding:0 4px;
   display:block;
   margin: 3px;
+  padding-top:12px;
 }
 
 
