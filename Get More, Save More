@@ -1,20 +1,56 @@
+<div class="xx004">
 <style>
-  .use {
-    color : #99DDFF
-  }
-  .promoDrawer__content__item__banner {
-    
-  }
-</style>
+.xx004 {
+  height:100%;
+  width:100%;
+  background-color:#FFF;
+  font-size:10px;
+  color:#grey;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 6px;
+}
+.xx004 p {
+    margin: 0
+}
+.exclusive {
+  font-size:1em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
 
+.pd-link {
+  font-size:1.5em;
+  text-transform: uppercase;
+  color: #99DDFF;
+  font-weight:700;
+  border-bottom: 2px solid #99DDFF;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+.pd-index {
+  font-size:1.5em;
+  text-transform: uppercase;
+  color: #99DDFF;
+  font-weight:700;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+
+</style>
 <div class="grid-root">
   <div class="g-1-6"></div>
   <div class="g-2-3">
     <center>
-      25% OFF ANY AMOUNT! 30% OFF $50 | 40% OFF $75<br>
-      <span class="use">USE CODE <strong>GETMORE</strong></span><br>
-      ONLINE ONLY, ENDS 3/30
+      <span class="exclusive">25% OFF ANY AMOUNT! 30% OFF $50 | 40% OFF $75<br>
+      <span class="pd-index">USE CODE </span><span class="pd-link">GETMORE</strong></span><br>
+      <span class="exclusive">ONLINE ONLY, ENDS 3/30</span>
     </center>
   </div>  
   <div class="g-1-6"></div>
-</div>  
+</div> 
+
+
+
+ 
