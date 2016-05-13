@@ -3,9 +3,9 @@
 .xx003 {
   height:100%;
   width:100%;
-  background-color:#808080;
+  background-color:#FFF;
   font-size:10px;
-  color:#FFF;
+  color:#grey;
   font-family: 'Open Sans', sans-serif;
   padding-top: 6px;
 }
@@ -20,45 +20,51 @@
 .main-offer {
   font-size: 3em;
   text-transform: uppercase;
-  line-height: 2;
+  line-height: 1;
+  font-weight:700;
+  display:block;
+margin: 8px 0
 }
 .pd-link {
   font-size:1.5em;
   text-transform: uppercase;
-  color: #FFF;
-  background-color: #000;
+  color: gray;
   font-weight:700;
-  width:90%;
-  padding:0 4px;
-  display:block;
-  margin: 12px 3px 3px 3px;
+  border-bottom: 2px solid gray;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2px;
 }
 .pd-index {
   font-size:1.5em;
   text-transform: uppercase;
+  color: gray;
   font-weight:700;
-  width:90%;
-  padding:0 4px;
-  display:block;
-  margin: 12px 3px 3px 3px;
+
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2px;
 }
 
 
 </style>
 <div class="grid-root">
   <div class="g-1-1">
-    <center><span class="exclusive">ONLINE ONLY. ENDS 3/21.</span></center>
-  </div>  
+    <center><span class="exclusive">ONLINE ONLY. ENDS 3/21.</span></center><br>
+  </div>
   <div class="g-1-1">
-    <center><span class="main-offer">50% OFF ANY ONE ITEM</span></center>
+    <center>
+      <span class="main-offer">50% OFF&nbsp;</span>
+    </center>
+    <center>
+      <span class="main-offer">ANY ONE ITEM</span>
+    </center>
   </div>  
   <div class="g-1-1">
     <center><span class="exclusive">No exclusions.</span></center>
   </div>
   <div class="g-1-1">
-    <center>
-      <span class="pd-index">USE CODE </span><span class="pd-link">xxxxxx</span>
-    </center>
+    <center><br></center>
   </div>
 </div>  
 </div>
