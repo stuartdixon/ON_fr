@@ -13,7 +13,7 @@
     margin: 0
 }
 .exclusive {
-  font-size:1em;
+  font-size:1.3em;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -40,17 +40,13 @@
 
 </style>
 <div class="grid-root">
-  <div class="g-1-6"></div>
-  <div class="g-2-3">
+
+  <div class="g-1-1">
     <center>
-      <span class="exclusive">25% OFF ANY AMOUNT! 30% OFF $50 | 40% OFF $75<br>
-      <span class="pd-index">USE CODE </span><span class="pd-link">GETMORE</strong></span><br>
-      <span class="exclusive">ONLINE ONLY, ENDS 3/30</span>
-    </center>
+      <span class="exclusive">25% OFF ANY AMOUNT!&nbsp;</span></center><center><span class="exclusive">30% OFF $50 | 40% OFF $75<br>
+      <span class="pd-index"><br></span></span></center><center><span class="exclusive"><span class="pd-index">USE CODE&nbsp;</span><span class="pd-link">GETMORE</span><br>
+      <span class="exclusive"><br></span></span></center><center><span class="exclusive"><span class="exclusive">ONLINE ONLY, ENDS 3/30</span>
+    </span></center>
   </div>  
-  <div class="g-1-6"></div>
-</div> 
 
-
-
- 
+</div></div>
