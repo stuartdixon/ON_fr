@@ -1,0 +1,80 @@
+<div class="xx123">
+<style>
+.xx123 {
+  height:100%;
+  width:100%;
+  background-color:#EEE;
+  font-size:10px;
+  color:#000;
+  font-family: Futura, sans-serif;
+  padding-top: 6px;
+}
+.xx123 p {
+    margin: 0
+}
+.exclusive {
+  font-size:1em;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height:3;
+}
+.main-offer {
+  font-size: 4.3em;
+  text-transform: uppercase;
+  line-height: 1.05;
+}
+.specs {
+  font-size: 1.1em;
+  padding: 0 16px;
+  display: block;
+}
+.pd-link, .pd-link a, .pd-link a:link, .pd-link a:visited, .pd-link a:hover {
+  font-size:1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #FFF;
+  background-color: #000;
+  font-weight:700;
+  width:90%;
+  padding:0 4px;
+  display:block;
+  margin: 3px;
+}
+
+
+</style>
+<div class="grid-root">
+  <div class="g-1-1">
+    <center><span class="exclusive">Exclusively for cardmemebers</span></center>
+  </div>  
+  <div class="g-1-1">
+    <center><span class="main-offer">30% off</span></center>
+  </div>  
+  <div class="g-1-1">
+    <center><span class="exclusive">your purchase</span></center>
+  </div>
+  <div class="g-1-1">
+    <center>
+      <span class="specs"><br></span>
+    </center>
+  </div>
+  <div class="g-1-3">
+    <center><a href="men.html" class="pd-link">Men</a></center>
+  </div>  
+  <div class="g-1-3">
+    <center><a href="women.html" class="pd-link">Women</a></center>
+  </div>  
+  <div class="g-1-3">
+    <center><a href="petites.html" class="pd-link">Petites</a></center>
+  </div>  
+<div class="g-1-3">
+    <center><a href="men.html" class="pd-link">BOYS</a></center>
+  </div>  
+  <div class="g-1-3">
+    <center><a href="women.html" class="pd-link">Girls</a></center>
+  </div>  
+  <div class="g-1-3">
+    <center><a href="petites.html" class="pd-link">DUDES</a></center>
+  </div>  
+</div>  
+</div>
