@@ -17,18 +17,18 @@
   -webkit-transform:translate(-50%,-50%);
   -moz-transform:translate(-50%,-50%);
 }
-.pd_exclusive {
+.xx004-pd_exclusive {
   font-size:1em;
   font-weight: 700;
   text-transform: uppercase;
 }
-.pd_channel {
+.xx004-pd_channel {
   font-size:1.4em;
   font-weight:700;
   text-transfrom:uppercase;
   margin-bottom:10px;
 }
-.pd-link {
+.xx004-pd-link {
   font-size:1.5em;
   text-transform: uppercase;
   color: #99DDFF;
@@ -37,7 +37,7 @@
   font-weight: 700;
   letter-spacing: 2px;
 }
-.pd-index {
+.xx004-pd-index {
   font-size:1.5em;
   text-transform: uppercase;
   color: #99DDFF;
@@ -48,12 +48,14 @@
 </style>
 
 <div class="xx004">
-  <div class="grid-root xx004_content-wrapper">
-    <div class="g-1-1">
-      <div class="pd_exclusive">25% OFF ANY AMOUNT!</div>
-      <div class="pd_exclusive">30% OFF $50 | 40% OFF $75</div>
-      <div class="pd-index">USE CODE <span class="pd-link">GETMORE</span></div>
-      <div class="pd_channel">ONLINE ONLY, ENDS 3/30</div>
-    </div>  
+  <div class="xx004_content-wrapper">
+    <div class="grid-root">
+      <div class="g-1-1">
+        <div class="xx004-pd_exclusive">25% OFF ANY AMOUNT!</div>
+        <div class="xx004-pd_exclusive">30% OFF $50 | 40% OFF $75</div>
+        <div class="xx004-pd-index">USE CODE <span class="pd-link">GETMORE</span></div>
+        <div class="xx004-pd_channel">ONLINE ONLY, ENDS 3/30</div>
+      </div>  
+    </div>
   </div>
 </div>
