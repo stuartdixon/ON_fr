@@ -1,4 +1,5 @@
 
+
 <style>
 .xx144 {
   height:100%;
@@ -6,7 +7,16 @@
   background-color:#808080;
   color:#FFF;
   font-family: 'Open Sans', sans-serif;
-  padding-top: 6px;
+  position:relative;
+}
+.pd_html-content-wrapper {
+  width:95%;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  -webkit-transform:translate(-50%,-50%);
+  -moz-transform:translate(-50%,-50%);
 }
 .xx123 p {
     margin: 0
@@ -31,13 +41,13 @@
   width:90%;
   padding:0 4px;
   display:block;
-  margin: 12px 3px 3px 3px;
+  margin: 12px auto 0 auto;
 }
 
 </style>
 
 <div class="xx144">
-  <div class="grid-root">
+  <div class="grid-root pd_html-content-wrapper">
     <div class="g-1-1">
       <center><span class="exclusive">ONLINE ONLY. ENDS 3/21.</span></center>
     </div>  
