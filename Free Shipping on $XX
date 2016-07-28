@@ -1,11 +1,9 @@
 
-<div class="xx144">
 <style>
 .xx144 {
   height:100%;
   width:100%;
   background-color:#808080;
-  font-size:10px;
   color:#FFF;
   font-family: 'Open Sans', sans-serif;
   padding-top: 6px;
@@ -36,23 +34,21 @@
   margin: 12px 3px 3px 3px;
 }
 
-
 </style>
-<div class="grid-root">
-  <div class="g-1-1">
-    <center><span class="exclusive">ONLINE ONLY. ENDS 3/21.</span></center>
+
+<div class="xx144">
+  <div class="grid-root">
+    <div class="g-1-1">
+      <center><span class="exclusive">ONLINE ONLY. ENDS 3/21.</span></center>
+    </div>  
+    <div class="g-1-1">
+      <center><span class="main-offer">FREE SHIPPING</span></center>
+    </div>  
+    <div class="g-1-1">
+      <center><span class="exclusive">ON YOUR $XX ORDER</span></center>
+    </div>
+    <div class="g-1-1">
+      <center><span class="pd-link">USE CODE xxxxxx</span></center>
+    </div>
   </div>  
-  <div class="g-1-1">
-    <center><span class="main-offer">FREE SHIPPING</span></center>
-  </div>  
-  <div class="g-1-1">
-    <center><span class="exclusive">ON YOUR $XX ORDER</span></center>
-  </div>
-  <div class="g-1-1">
-    <center>
-      <span class="pd-link">USE CODE xxxxxx
-      </span>
-    </center>
-  </div>
-</div>  
 </div>
