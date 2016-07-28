@@ -1,23 +1,33 @@
-<div class="xx004">
 <style>
 .xx004 {
   height:100%;
   width:100%;
   background-color:#FFF;
-  font-size:10px;
-  color:#grey;
+  color:grey;
   font-family: 'Open Sans', sans-serif;
-  padding-top: 6px;
+  text-align:center;
+  position:relative;
 }
-.xx004 p {
-    margin: 0
+.xx004_content-wrapper {
+  width:95%;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  -webkit-transform:translate(-50%,-50%);
+  -moz-transform:translate(-50%,-50%);
 }
-.exclusive {
-  font-size:1.3em;
+.pd_exclusive {
+  font-size:1em;
   font-weight: 700;
   text-transform: uppercase;
 }
-
+.pd_channel {
+  font-size:1.4em;
+  font-weight:700;
+  text-transfrom:uppercase;
+  margin-bottom:10px;
+}
 .pd-link {
   font-size:1.5em;
   text-transform: uppercase;
@@ -25,7 +35,6 @@
   font-weight:700;
   border-bottom: 2px solid #99DDFF;
   font-weight: 700;
-  font-size: 20px;
   letter-spacing: 2px;
 }
 .pd-index {
@@ -33,20 +42,18 @@
   text-transform: uppercase;
   color: #99DDFF;
   font-weight:700;
-  font-size: 20px;
   letter-spacing: 2px;
+  margin:15px 0;
 }
-
-
 </style>
-<div class="grid-root">
 
-  <div class="g-1-1">
-    <center>
-      <span class="exclusive">25% OFF ANY AMOUNT!&nbsp;</span></center><center><span class="exclusive">30% OFF $50 | 40% OFF $75<br>
-      <span class="pd-index"><br></span></span></center><center><span class="exclusive"><span class="pd-index">USE CODE&nbsp;</span><span class="pd-link">GETMORE</span><br>
-      <span class="exclusive"><br></span></span></center><center><span class="exclusive"><span class="exclusive">ONLINE ONLY, ENDS 3/30</span>
-    </span></center>
-  </div>  
-
-</div></div>
+<div class="xx004">
+  <div class="grid-root xx004_content-wrapper">
+    <div class="g-1-1">
+      <div class="pd_exclusive">25% OFF ANY AMOUNT!</div>
+      <div class="pd_exclusive">30% OFF $50 | 40% OFF $75</div>
+      <div class="pd-index">USE CODE <span class="pd-link">GETMORE</span></div>
+      <div class="pd_channel">ONLINE ONLY, ENDS 3/30</div>
+    </div>  
+  </div>
+</div>
