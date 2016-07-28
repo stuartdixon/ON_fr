@@ -16,20 +16,18 @@
   -webkit-transform:translate(-50%,-50%);
   -moz-transform:translate(-50%,-50%);
 }
-.xx123 p {
-    margin: 0
-}
-.exclusive {
+
+.xx144-exclusive {
   font-size:1em;
   font-weight: 700;
   text-transform: uppercase;
 }
-.main-offer {
+.xx144-main-offer {
   font-size: 3em;
   text-transform: uppercase;
   line-height: 2;
 }
-.pd-link, .pd-link a, .pd-link a:link, .pd-link a:visited, .pd-link a:hover {
+.xx144-pd-link, .xx144-pd-link a {
   font-size:1.5em;
   text-decoration: none;
   text-transform: uppercase;
@@ -45,18 +43,20 @@
 </style>
 
 <div class="xx144">
-  <div class="grid-root pd_html-content-wrapper">
-    <div class="g-1-1">
-      <center><span class="exclusive">ONLINE ONLY. ENDS 3/21.</span></center>
+  <div class=" pd_html-content-wrapper">
+    <div class="grid-root">
+      <div class="g-1-1">
+        <center><span class="xx144-exclusive">ONLINE ONLY. ENDS 3/21.</span></center>
+      </div>  
+      <div class="g-1-1">
+        <center><span class="xx144-main-offer">FREE SHIPPING</span></center>
+      </div>  
+      <div class="g-1-1">
+        <center><span class="xx144-exclusive">ON YOUR $XX ORDER</span></center>
+      </div>
+      <div class="g-1-1">
+        <center><span class="xx144-pd-link">USE CODE xxxxxx</span></center>
+      </div>
     </div>  
-    <div class="g-1-1">
-      <center><span class="main-offer">FREE SHIPPING</span></center>
-    </div>  
-    <div class="g-1-1">
-      <center><span class="exclusive">ON YOUR $XX ORDER</span></center>
-    </div>
-    <div class="g-1-1">
-      <center><span class="pd-link">USE CODE xxxxxx</span></center>
-    </div>
   </div>  
 </div>
