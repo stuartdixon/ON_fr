@@ -20,7 +20,7 @@
 	}
 	.pd__clearance-tile-super-title {
 		font-size:1.1em;
-		margin-bottom:1.8em;
+		margin-bottom:1.5em;
 		font-weight:300;
 	}
 	.pd__clearance-tile-title {
@@ -29,8 +29,8 @@
 		letter-spacing: 1.8px;
 	}
 	.pd__clearance-tile-sub-title {
-			font-size:1em;
-			margin-bottom:3em;
+		font-size:1em;
+		margin-bottom:2em;
 	}
 	.pd__clearance-tile-sub-title span {
 		font-weight:700;
