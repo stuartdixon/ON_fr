@@ -1,0 +1,60 @@
+<style type="text/css">
+	.pd__clearance-tile {
+		width:100%;
+		height:100%;
+		background-color:#e63c2f;
+		position:relative;
+		color:#fff;
+		text-transform:uppercase;
+		text-align:center;
+		letter-spacing:1.4px;
+	}
+	.pd__clearance-tile-content-wrapper {
+		width:95%;
+		position:absolute;
+  		top:50%;
+  		left:50%;
+  		transform:translate(-50%,-50%);
+  		-webkit-transform:translate(-50%,-50%);
+  		-moz-transform:translate(-50%,-50%);
+	}
+	.pd__clearance-tile-super-title {
+		font-size:1.1em;
+		margin-bottom:1em;
+		font-weight:300;
+	}
+	.pd__clearance-tile-title {
+		font-size:1.7em;
+		margin-bottom:0.3em;
+		letter-spacing: 1.8px;
+	}
+	.pd__clearance-tile-sub-title {
+			font-size:1em;
+			margin-bottom:1.7em;
+	}
+	.pd__clearance-tile-sub-title span {
+		font-weight:700;
+	}
+	.pd__clearance-tile-cta-single {
+		font-size: 0.83em;
+    	background-color: #000;
+    	width: 35%;
+    	margin: 0 auto;
+    	padding: 6px;
+	}
+	.pd__clearance-tile-cta-single a {
+		color:#fff;
+		text-decoration:none;
+	}
+</style>
+
+<div class="pd__clearance-tile">
+		<div class="pd__clearance-tile-content-wrapper">
+			<div class="pd__clearance-tile-super-title">limited time only.</div>
+			<div class="pd__clearance-tile-title">35% off clearance</div>
+			<div class="pd__clearance-tile-sub-title">use code <span>Jackpot</span></div>
+			<div class="pd__clearance-tile-cta-single">
+				<a href="/browse/category.do?cid=96964" mlink="PD_Clearance">shop now</a>
+			</div>
+		</div>
+	</div>
