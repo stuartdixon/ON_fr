@@ -20,27 +20,27 @@
 	}
 	.pd__clearance-tile-super-title {
 		font-size:1.1em;
-		margin-bottom:1em;
+		margin-bottom:1.8em;
 		font-weight:300;
 	}
 	.pd__clearance-tile-title {
-		font-size:1.7em;
+		font-size:2em;
 		margin-bottom:0.3em;
 		letter-spacing: 1.8px;
 	}
 	.pd__clearance-tile-sub-title {
 			font-size:1em;
-			margin-bottom:1.7em;
+			margin-bottom:3em;
 	}
 	.pd__clearance-tile-sub-title span {
 		font-weight:700;
 	}
 	.pd__clearance-tile-cta-single {
 		font-size: 0.83em;
-    	background-color: #000;
-    	width: 35%;
-    	margin: 0 auto;
-    	padding: 6px;
+    		background-color: #000;
+    		width: 35%;
+    		margin: 0 auto;
+    		padding: 6px;
 	}
 	.pd__clearance-tile-cta-single a {
 		color:#fff;
