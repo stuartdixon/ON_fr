@@ -1,0 +1,53 @@
+<style type="text/css">
+	.pd__single-line-promo-tile {
+		width:100%;
+		height:100%;
+		background-color:#144882;
+		position:relative;
+		color:#fff;
+		text-transform:uppercase;
+		text-align:center;
+		letter-spacing:1.4px;
+	}
+	.pd__single-line-promo-tile-content-wrapper {
+		width:95%;
+		position:absolute;
+  	top:50%;
+  	left:50%;
+  	transform:translate(-50%,-50%);
+  	-webkit-transform:translate(-50%,-50%);
+  	-moz-transform:translate(-50%,-50%);
+	}
+	.pd__single-line-promo-tile-super-title {
+		font-size:1.1em;
+		margin-bottom:1.2em;
+		font-weight:300;
+	}
+	.pd__single-line-promo-tile-title {
+		font-size:2em;
+		letter-spacing: 1.5px;
+	}
+	.pd__single-line-promo-tile-sub-title {
+		font-size:1.1em;
+		line-height:2.5em
+	}
+	.pd__single-line-promo-tile-code-text {
+		margin-top:1.4em;
+		font-size:1.1em;
+	}
+	.pd__single-line-promo-tile-code-text span {
+		font-weight:700;
+	}
+	
+</style>
+
+
+	<div class="pd__single-line-promo-tile">
+		<div class="pd__single-line-promo-tile-content-wrapper">
+			<div class="pd__single-line-promo-tile-super-title">limited time only.</div>
+			<div class="pd__single-line-promo-tile-title">20% off any 1 item</div>
+			<div class="pd__single-line-promo-tile-sub-title">exclusions message</div>
+			<div class="pd__single-line-promo-tile-code-text">use code <span>enjoy</span></div>
+		</div>
+	</div>
+
