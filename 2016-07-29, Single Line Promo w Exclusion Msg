@@ -12,15 +12,15 @@
 	.pd__single-line-promo-tile-content-wrapper {
 		width:95%;
 		position:absolute;
-  	top:50%;
-  	left:50%;
-  	transform:translate(-50%,-50%);
-  	-webkit-transform:translate(-50%,-50%);
-  	-moz-transform:translate(-50%,-50%);
+  		top:50%;
+  		left:50%;
+  		transform:translate(-50%,-50%);
+  		-webkit-transform:translate(-50%,-50%);
+  		-moz-transform:translate(-50%,-50%);
 	}
 	.pd__single-line-promo-tile-super-title {
 		font-size:1.1em;
-		margin-bottom:1.2em;
+		margin-bottom:1.3em;
 		font-weight:300;
 	}
 	.pd__single-line-promo-tile-title {
@@ -32,7 +32,7 @@
 		line-height:2.5em
 	}
 	.pd__single-line-promo-tile-code-text {
-		margin-top:1.4em;
+		margin-top:1.8em;
 		font-size:1.1em;
 	}
 	.pd__single-line-promo-tile-code-text span {
