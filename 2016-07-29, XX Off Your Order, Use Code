@@ -20,7 +20,7 @@
 	}
 	.pd__xxOff-tile-super-title {
 		font-size:1.1em;
-		margin-bottom:1.5em;
+		margin-bottom:1.8em;
 		font-weight:300;
 	}
 	.pd__xxOff-tile-title {
@@ -32,7 +32,7 @@
 		font-size:1.9em;
 	}
 	.pd__xxOff-tile-code-text {
-		margin-top:1.8em;
+		margin-top:2.1em;
 		font-size:1.1em;
 	}
 	.pd__xxOff-tile-code-text span {
