@@ -25,12 +25,12 @@
 		font-weight:300;
 	}
 	.pd__xxOff-tile-title {
-		font-size:3.3em;
+		font-size:3.8em;
 		line-height:1em;
 		letter-spacing: 1.8px;
 	}
 	.pd__xxOff-tile-sub-title {
-		font-size:1.6em;
+		font-size:1.9em;
 	}
 	.pd__xxOff-tile-code-text {
 		margin-top:1.8em;
