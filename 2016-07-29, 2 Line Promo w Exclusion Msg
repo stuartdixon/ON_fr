@@ -24,7 +24,7 @@
 		font-weight:300;
 	}
 	.pd__two-line-promo-tile-title {
-		font-size:1.6em;
+		font-size:1.8em;
 		letter-spacing: 1.5px;
 		line-height:1.2em;
 	}
