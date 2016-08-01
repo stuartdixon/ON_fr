@@ -19,7 +19,7 @@
   		-moz-transform:translate(-50%,-50%);
 	}
 	.pd__two-promos-tile-super-title {
-		font-size:0.9em;
+		font-size:1.1em;
 		margin-bottom:1em;
 		font-weight:300;
 	}
@@ -36,7 +36,7 @@
 	}
 	.pd__two-promos-tile-code-text {
 		margin-top:1.2em;
-		font-size:0.9em;
+		font-size:1.1em;
 	}
 	.pd__two-promos-tile-code-text span {
 		font-weight:700;
