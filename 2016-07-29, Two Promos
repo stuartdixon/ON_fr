@@ -35,7 +35,7 @@
 		font-weight:700;
 	}
 	.pd__two-promos-tile-code-text {
-		margin-top:1.2em;
+		margin-top:1.5em;
 		font-size:1.1em;
 	}
 	.pd__two-promos-tile-code-text span {
