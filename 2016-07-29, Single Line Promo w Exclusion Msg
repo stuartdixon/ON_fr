@@ -24,7 +24,7 @@
 		font-weight:300;
 	}
 	.pd__single-line-promo-tile-title {
-		font-size:2em;
+		font-size:2.3em;
 		letter-spacing: 1.5px;
 	}
 	.pd__single-line-promo-tile-sub-title {
