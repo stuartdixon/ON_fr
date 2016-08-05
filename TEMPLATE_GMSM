@@ -80,7 +80,7 @@
 	.pd__bmsm-amt div.num-off {
 		display:inline;
 		padding:0 5px;
-		background-color:#144882;
+		background-color:#003764;
 		z-index:1;
 	}
 	.pd__bmsm-line-through {
