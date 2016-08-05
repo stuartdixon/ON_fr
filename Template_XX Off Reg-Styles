@@ -1,4 +1,4 @@
-<style type="text/css">
+<undefined><undefined><style type="text/css">
 	@import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
 	.pd__two-line-promo-tile {
 		width:100%;
@@ -42,15 +42,15 @@
 		font-weight:700;
 	}
 	
-</style>
+</style></undefined></undefined>
 
 
 	<div class="pd__two-line-promo-tile">
 		<div class="pd__two-line-promo-tile-content-wrapper">
-			<div class="pd__two-line-promo-tile-super-title">online only. today only. 7/17.</div>
+			<div class="pd__two-line-promo-tile-super-title">online only. today only, 7/17.</div>
 			<div class="pd__two-line-promo-tile-title">30% off</div>
 			<div class="pd__two-line-promo-tile-title">regular-priced styles</div>
-			<div class="pd__two-line-promo-tile-sub-title">exclusions message</div>
+			<div class="pd__two-line-promo-tile-sub-title">no exclusions!</div>
 			<div class="pd__two-line-promo-tile-code-text">use code <span>enjoy</span></div>
 		</div>
 	</div>
