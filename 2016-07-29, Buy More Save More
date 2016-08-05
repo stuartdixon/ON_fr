@@ -39,18 +39,21 @@
 		width:100%;
 		word-spacing: -1;
 		margin-bottom:0.5em;
+		letter-spacing:normal;
 	}
 	.pd__bmsm-number {
 		display:inline-block;
 		width:61%;
 		vertical-align:top;
 		font-size: 3.5em;
-    	line-height: 0.8em;
+    		line-height: 0.8em;
+    		text-align:right;
 	}
 	.pd__bmsm-pct-off {
 		display:inline-block;
 		width:33%;
 		vertical-align:top;
+		text-align:left;
 	}
 	.pd__bmsm-pct {
 		display:block;
