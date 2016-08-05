@@ -59,19 +59,20 @@
 		display:block;
 		width:100%;
 		-webkit-transform:scale(1.2,1); /* Safari and Chrome */
-    	-moz-transform:scale(1.2,1); /* Firefox */
-    	-ms-transform:scale(1.2,1); /* IE 9 */
-    	-o-transform:scale(1.2,1); /* Opera */
-    	transform:scale(1.2,1);
-    	font-size:2em;
-    	line-height:1em;
+    		-moz-transform:scale(1.2,1); /* Firefox */
+    		-ms-transform:scale(1.2,1); /* IE 9 */
+    		-o-transform:scale(1.2,1); /* Opera */
+    		transform:scale(1.2,1);
+    		font-size:2em;
+    		line-height:1em;
 	}
 	.pd__bmsm-off {
 		font-size:0.9em;
 		line-height:0.9em;
 	}
 	.pd__bmsm-amt {
-		font-size:0.7em;
+		font-size:0.9em;
+		white-space:nowrap;
 		position:relative;
 	}
 	.pd__bmsm-amt div.num-off {
