@@ -132,6 +132,6 @@
 					</div>
 				</div>
 			</div>
-			<div class="pd__bmsm-tile-code-text">saisir le code <span class="pd__bmsm-tile-code-text">XXXXX</span></div>
+			<div class="pd__bmsm-tile-code-text">saisir le code <span>XXXXX</span></div>
 		</div>
 	</div>
