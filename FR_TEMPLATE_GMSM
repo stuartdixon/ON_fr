@@ -10,7 +10,7 @@
 		letter-spacing:1.4px;
 	}
 	.pd__bmsm-tile-content-wrapper {
-		width:98%;
+		width:97%;
 		position:absolute;
   		top:50%;
   		left:50%;
@@ -19,12 +19,12 @@
   		-moz-transform:translate(-50%,-50%);
 	}
 	.pd__bmsm-tile-super-title {
-		font-size:1.1em;
+		font-size:1.5em;
 		font-weight:300;
 	}
 	.pd__bmsm-percent-off-wrapper {
 		width:100%;
-		margin:3.8em 0;
+		margin:5em 0;
 	}
 	.pd__bmsm-percent-off-div {
 		width:32%;
@@ -42,7 +42,7 @@
 	.pd__bmsm-number {
 		display:inline-block;
 		vertical-align:top;
-		font-size: 3.3em;
+		font-size: 4.5em;
     	line-height: 0.8em;
     	margin-left:-0.05em;
     	-webkit-transform:scale(1,1.1); /* Safari and Chrome */
@@ -59,27 +59,28 @@
 	.pd__bmsm-pct {
 		display:block;
 		width:100%;
-    	font-size:2.2em;
+    	font-size:3em;
     	line-height:1em;
     	margin-left:-0.1em;
-    	margin-top: -0.15em;
 	}
 	.pd__bmsm-off {
-		font-size:0.7em;
+		font-size:1em;
 		display:inline-block;
 		text-align:right;
 		letter-spacing:-0.1px;
-		margin-top: -0.15em;
 	}
 	.pd__bmsm-amt {
-		font-size:0.5em;
+		font-size:0.8em;
+		letter-spacing:1px;
+		margin-top:8px;
 	}
 	.pd__bmsm-tile-code-text {
-		font-size:1.1em;
+		font-size:1.5em;
 	}
 	.pd__bmsm-tile-code-text span {
 		font-weight:700;
 	}
+	
 </style>
 
 	<div class="pd__bmsm-tile">
