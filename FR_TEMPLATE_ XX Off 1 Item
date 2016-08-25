@@ -1,0 +1,55 @@
+<style type="text/css">
+	.pd__xxOffItem-tile {
+		width:100%;
+		height:100%;
+		background-color:#003764;
+		position:relative;
+		color:#fff;
+		text-transform:uppercase;
+		text-align:center;
+		letter-spacing:1.4px;
+	}
+	.pd__xxOffItem-tile-content-wrapper {
+		width:95%;
+		position:absolute;
+  	top:50%;
+  	left:50%;
+  	transform:translate(-50%,-50%);
+  	-webkit-transform:translate(-50%,-50%);
+  	-moz-transform:translate(-50%,-50%);
+	}
+	.pd__xxOffItem-tile-super-title {
+		font-size:1.5em;
+		font-weight:300;
+	}
+	.pd__xxOffItem-tile-title {
+		font-size:2.72em;
+		letter-spacing: 1.8px;
+		font-weight:400;
+		margin-top:0.5em;
+		margin-bottom:0.2em;
+		line-height: 1.2em
+	}
+	.pd__xxOffItem-tile-sub-title {
+		font-size:1.6em;
+		margin-bottom:1.5em;
+	}
+	.pd__xxOffItem-tile-code-text {
+		font-size:1.5em;
+	}
+	.pd__xxOffItem-tile-code-text span {
+		font-weight:700;
+	}
+	
+</style>
+
+	<div class="pd__xxOffItem-tile">
+		<div class="pd__xxOffItem-tile-content-wrapper">
+			<div class="pd__xxOffItem-tile-super-title">en ligne seulement.</div>
+			<div class="pd__xxOffItem-tile-super-title">AUJOURD'HUI S&#201;ULEMENT. LE 7 JUILLET.</div>
+			<div class="pd__xxOffItem-tile-title">profite d'un rabais<br />
+				de xx % sur un article</div>
+			<div class="pd__xxOffItem-tile-sub-title">sans exclusions!</div>
+			<div class="pd__xxOffItem-tile-code-text">saisir le code <span>xxxxx</span></div>
+		</div>
+	</div>
