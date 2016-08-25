@@ -12,11 +12,11 @@
 	.pd__xxOffTotal-tile-content-wrapper {
 		width:95%;
 		position:absolute;
-  	top:50%;
-  	left:50%;
-  	transform:translate(-50%,-50%);
-  	-webkit-transform:translate(-50%,-50%);
-  	-moz-transform:translate(-50%,-50%);
+  		top:50%;
+  		left:50%;
+  		transform:translate(-50%,-50%);
+  		-webkit-transform:translate(-50%,-50%);
+  		-moz-transform:translate(-50%,-50%);
 	}
 	.pd__xxOffTotal-tile-super-title {
 		font-size:1.5em;
@@ -26,13 +26,13 @@
 		font-size:2.4em;
 		letter-spacing: 1.8px;
 		font-weight:400;
-		margin-top:0.9em;
+		margin-top:1.4em;
 		margin-bottom:0.2em;
 		line-height: 1.2em
 	}
 	.pd__xxOffTotal-tile-sub-title {
 		font-size:1.6em;
-		margin-bottom:1.8em;
+		margin-bottom:2.3em;
 	}
 	.pd__xxOffTotal-tile-code-text {
 		font-size:1.5em;
