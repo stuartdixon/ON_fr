@@ -1,4 +1,5 @@
-.pd__addXXOff-tile {
+<style type="text/css">
+	.pd__addXXOff-tile {
 		width:100%;
 		height:100%;
 		background-color:#003764;
@@ -39,6 +40,7 @@
 	.pd__addXXOff-tile-code-text span {
 		font-weight:700;
 	}
+</style>
 	
 		<div class="pd__addXXOff-tile">
 		<div class="pd__addXXOff-tile-content-wrapper">
