@@ -1,0 +1,63 @@
+<style type="text/css">
+	.pd__xxoffxxadd-tile {
+		width:100%;
+		height:100%;
+		background-color:#003764;
+		position:relative;
+		color:#fff;
+		text-transform:uppercase;
+		text-align:center;
+		letter-spacing:1.4px;
+	}
+	.pd__xxoffxxadd-tile-content-wrapper {
+		width:95%;
+		position:absolute;
+  		top:50%;
+  		left:50%;
+  		transform:translate(-50%,-50%);
+  		-webkit-transform:translate(-50%,-50%);
+  		-moz-transform:translate(-50%,-50%);
+	}
+	.pd__xxoffxxadd-tile-super-title {
+		font-size:1.5em;
+		font-weight:300;
+	}
+	.pd__xxoffxxadd-title-wrapper {
+		margin:1em auto;
+	}
+	.pd__xxoffxxadd-tile-title {
+		font-size:2.1em;
+		letter-spacing: 1.8px;
+		font-weight:400;
+		line-height: 1.2em
+	}
+	.pd__xxoffxxadd-tile-sub-title {
+		font-size:1.4em;
+		font-weight:400;
+	}
+	.pd__xxoffxxadd-tile-plus {
+		font-size:2em;
+	}
+	.pd__xxoffxxadd-tile-code-text {
+		font-size:1.5em;
+	}
+	.pd__xxoffxxadd-tile-code-text span {
+		font-weight:700;
+	}
+	
+</style>
+
+	<div class="pd__xxoffxxadd-tile">
+		<div class="pd__xxoffxxadd-tile-content-wrapper">
+			<div class="pd__xxoffxxadd-tile-super-title">en ligne seulement.</div>
+			<div class="pd__xxoffxxadd-tile-super-title">l'offre prend fin le 7 XX/XX</div>
+			<div class="pd__xxoffxxadd-title-wrapper">
+				<div class="pd__xxoffxxadd-tile-title">rabais de xx %,</div>
+				<div class="pd__xxoffxxadd-tile-sub-title">sur ton achat</div>
+				<div class="pd__xxoffxxadd-tile-plus">+</div>
+				<div class="pd__xxoffxxadd-tile-title">rabais additionnel de xx %</div>
+				<div class="pd__xxoffxxadd-tile-sub-title">SUR TOUT LORSQUE TU DÉPENSES XX $ CA</div>
+			</div>
+			<div class="pd__xxoffxxadd-tile-code-text">saisir le code <span>xxxxx</span></div>
+		</div>
+	</div>
