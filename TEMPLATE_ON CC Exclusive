@@ -27,7 +27,7 @@
 	.pd__cc-exlusive-tile-title {
 		font-size:1.5em;
 		letter-spacing: 1.5px;
-		line-height:1em;
+		line-height:0.9em;
 	}
 	.pd__cc-exlusive-tile-title sup {
 		font-size:0.5em;
@@ -37,17 +37,20 @@
 		font-size:0.9em;
 	}
 	.pd__cc-exlusive-plus-spacer {
-		margin:0.5em 0;
+		margin:0.3em 0;
 		font-weight:700;
 	}
+	.pd__cc-exlusive-tile-disclaimer {
+		font-size:0.7em;
+		margin: 0.8em 0;
+		text-transform: none;
+	}
 	.pd__cc-exlusive-tile-code-text {
-		margin-top:1em;
 		font-size:1.1em;
 	}
 	.pd__cc-exlusive-tile-code-text span {
 		font-weight:700;
 	}
-	
 </style>
 
 	<div class="pd__cc-exlusive-tile">
@@ -58,6 +61,7 @@
 			<div class="pd__cc-exlusive-tile-sub-title">old navy credit card exclusive</div>
 			<div class="pd__cc-exlusive-tile-title">get an extra</div>
 			<div class="pd__cc-exlusive-tile-title">XX% off everything<sup>*</sup></div>
+			<div class="pd__cc-exlusive-tile-disclaimer">Excludes gift cards.</div>
 			<div class="pd__cc-exlusive-tile-code-text">use code <span>enjoy</span></div>
 		</div>
 	</div>
