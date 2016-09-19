@@ -27,7 +27,7 @@
 	.pd__cc-exlusive-tile-title {
 		font-size:1.5em;
 		letter-spacing: 1.5px;
-		line-height:0.9em;
+		line-height:1em;
 	}
 	.pd__cc-exlusive-tile-title sup {
 		font-size:0.5em;
